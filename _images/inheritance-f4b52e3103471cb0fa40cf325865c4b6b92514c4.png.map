@@ -1,0 +1,10 @@
+<map id="inheritancef93dabe00c" name="inheritancef93dabe00c">
+<area shape="rect" id="node1" href="microprobe.utils.mpt.MicroprobeTestDefinition.html#microprobe.utils.mpt.MicroprobeTestDefinition" target="_top" title="Abstract class to represent a Microprobe Test configuration." alt="" coords="20,97,225,113"/>
+<area shape="rect" id="node2" href="microprobe.utils.mpt.MicroprobeTestDefinitionDefault.html#microprobe.utils.mpt.MicroprobeTestDefinitionDefault" target="_top" title="Class to represent a Microprobe Test configuration (default impl.)" alt="" coords="273,97,508,113"/>
+<area shape="rect" id="node3" href="microprobe.utils.mpt.MicroprobeTestDefinitionV0x5.html#microprobe.utils.mpt.MicroprobeTestDefinitionV0x5" target="_top" title="Class to represent a Microprobe Test configuration (v0.5)" alt="" coords="539,97,765,113"/>
+<area shape="rect" id="node4" href="microprobe.utils.mpt.MicroprobeTestParser.html#microprobe.utils.mpt.MicroprobeTestParser" target="_top" title="Abstract class to represent a Microprobe Test configuration parser." alt="" coords="28,66,218,82"/>
+<area shape="rect" id="node5" href="microprobe.utils.mpt.MicroprobeTestParserDefault.html#microprobe.utils.mpt.MicroprobeTestParserDefault" target="_top" title="Class to represent a Microprobe Test configuration parser." alt="" coords="280,66,501,82"/>
+<area shape="rect" id="node6" href="microprobe.utils.mpt.MicroprobeTestParserV0x5.html#microprobe.utils.mpt.MicroprobeTestParserV0x5" target="_top" title="Class to represent a Microprobe Test configuration (v0.5)" alt="" coords="546,66,757,82"/>
+<area shape="rect" id="node7" href="microprobe.utils.mpt.MicroprobeTestRegisterDefinition.html#microprobe.utils.mpt.MicroprobeTestRegisterDefinition" target="_top" title="microprobe.utils.mpt.MicroprobeTestRegisterDefinition" alt="" coords="3,35,242,51"/>
+<area shape="rect" id="node8" href="microprobe.utils.mpt.MicroprobeTestVariableDefinition.html#microprobe.utils.mpt.MicroprobeTestVariableDefinition" target="_top" title="microprobe.utils.mpt.MicroprobeTestVariableDefinition" alt="" coords="3,3,242,19"/>
+</map>
